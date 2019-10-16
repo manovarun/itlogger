@@ -1,2 +1,2 @@
 IT Logger
-Logs IT Techs activities
+Logs IT Techs activities using ReactJS
