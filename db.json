@@ -1,25 +1,11 @@
 {
   "logs": [
     {
-      "message": "Changed Network card on server 007",
-      "attention": true,
-      "tech": "Sam Smith",
-      "date": "2019-10-26T19:55:52.116Z",
-      "id": 1
-    },
-    {
-      "message": "Hard Drive Failed in workstation 002",
-      "attention": true,
-      "tech": "Sara Wilson",
-      "date": "2019-10-26T19:56:17.035Z",
-      "id": 2
-    },
-    {
-      "message": "1122 wireless down",
+      "message": "Issue on server 1122",
       "attention": false,
-      "tech": "John Doe",
-      "date": "2019-10-26T19:58:59.424Z",
-      "id": 3
+      "tech": "Sam Smith",
+      "date": "2019-10-26T20:34:40.788Z",
+      "id": 2
     }
   ],
   "techs": [
