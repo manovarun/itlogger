@@ -13,8 +13,8 @@ const TechSelectOptions = ({ getTechs, tech: { techs, loading } }) => {
     !loading &&
     techs !== null &&
     techs.map(tech => (
-      <option key={tech.id} value={`${tech.firstname} ${tech.lastname}`}>
-        {tech.firstname} {tech.lastname}
+      <option key={tech.id} value={`${tech.firstName} ${tech.lastName}`}>
+        {tech.firstName} {tech.lastName}
       </option>
     ))
   );
