@@ -1,11 +1,25 @@
 {
   "logs": [
     {
+      "id": 2,
       "message": "Issue on server 1122",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2019-10-27T10:09:46.259Z"
+    },
+    {
+      "message": "test",
       "attention": false,
       "tech": "Sam Smith",
-      "date": "2019-10-26T20:34:40.788Z",
-      "id": 2
+      "date": "2019-10-27T09:18:01.511Z",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "message": "Log 3",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2019-10-27T10:10:16.864Z"
     }
   ],
   "techs": [
